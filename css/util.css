@@ -1,0 +1,12 @@
+input.item-error {
+    border-color: #D61E1E;
+    order: 0;
+}
+
+.label-error {     
+    color: #D61E1E;
+}
+
+.img-produto img{
+    width: 180px;
+}
