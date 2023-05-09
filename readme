@@ -1,0 +1,9 @@
+Sistema com telas de cadastro de Cliente, Produtos(Item, Marca, Categoria), Tela de Vendas e um dashboard na tela inicial.
+Sistema feito em Oracle Apex. 
+Ferramentas:
+  BD Oracle 21c
+  ORDS 23.1
+  Tomcat 9
+  Apex 22.2  
+© Oracle · Built with love using Oracle APEX
+#Oracle #Apex
