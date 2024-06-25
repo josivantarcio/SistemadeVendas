@@ -13,7 +13,6 @@ This repository contains a sales system with features for Customer Registration,
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="60" height="60"/>
-  <img src="https://www.oracle.com/a/ocom/img/hp11-intl-oracle-apex.png" alt="Oracle APEX" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/tomcat.png" alt="Tomcat" width="60" height="60"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Developer" width="60" height="60"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/oracle-logo.png" alt="Oracle Linux" width="60" height="60"/>
