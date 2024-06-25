@@ -1,50 +1,53 @@
-# Sistema de Vendas
+# Sales System
 
-Este repositório contém um sistema de vendas com funcionalidades para cadastro de Cliente, Produtos (Item, Marca, Categoria), uma Tela de Vendas e um dashboard na tela inicial. O sistema foi desenvolvido utilizando Oracle APEX.
+This repository contains a sales system with features for Customer Registration, Products (Item, Brand, Category) Registration, a Sales Screen, and a dashboard on the home screen. The system was developed using Oracle APEX.
 
-## Funcionalidades
+## Features
 
-- **Cadastro de Cliente**: Permite o registro de informações detalhadas dos clientes.
-- **Cadastro de Produtos**: Gerencie itens, marcas e categorias de produtos.
-- **Tela de Vendas**: Facilita a execução de transações de vendas.
-- **Dashboard**: Visualize métricas e informações importantes na tela inicial.
+- **Customer Registration**: Allows detailed customer information to be registered.
+- **Product Registration**: Manage items, brands, and product categories.
+- **Sales Screen**: Facilitates the execution of sales transactions.
+- **Dashboard**: View important metrics and information on the home screen.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **Banco de Dados Oracle 21c**: Sistema de gerenciamento de banco de dados relacional.
-- **Oracle REST Data Services (ORDS) 23.1**: Ferramenta para expor serviços RESTful a partir de banco de dados Oracle.
-- **Tomcat 9**: Servidor de aplicações web.
-- **Oracle APEX 22.2**: Plataforma de desenvolvimento rápido de aplicações web.
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" width="60" height="60"/>
+  <img src="https://www.oracle.com/a/ocom/img/hp11-intl-oracle-apex.png" alt="Oracle APEX" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/tomcat.png" alt="Tomcat" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Developer" width="60" height="60"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/oracle-logo.png" alt="Oracle Linux" width="60" height="60"/>
+</p>
 
-## Como Executar
+## How to Run
 
-1. **Clone o repositório**:
+1. **Clone the repository**:
     ```sh
     git clone https://github.com/josivantarcio/SistemadeVendas.git
     ```
-2. **Configuração do Banco de Dados**:
-    - Importe o esquema do banco de dados no Oracle 21c.
-3. **Configuração do ORDS**:
-    - Configure o ORDS para expor os serviços REST necessários.
-4. **Configuração do Tomcat**:
-    - Deploy do ORDS no Tomcat 9.
-5. **Configuração do Oracle APEX**:
-    - Importe a aplicação APEX e configure conforme necessário.
+2. **Database Configuration**:
+    - Import the database schema into Oracle 21c.
+3. **ORDS Configuration**:
+    - Configure ORDS to expose the necessary REST services.
+4. **Tomcat Configuration**:
+    - Deploy ORDS on Tomcat 9.
+5. **Oracle APEX Configuration**:
+    - Import the APEX application and configure it as needed.
 
-## Demonstração
+## Demo
 
-Adicione aqui screenshots ou um vídeo demonstrativo das funcionalidades do sistema.
+Add screenshots or a demonstration video of the system's features here.
 
-## Contato
+## Contact
 
-Para mais informações, entre em contato:
+For more information, please contact:
 
 - **Jôsevan Tárcio Silva de Oliveira**
 - [LinkedIn](https://www.linkedin.com/in/josevantarc/) 
 
-## Licença
+## License
 
-Este projeto é licenciado sob os termos da Oracle. 
+This project is licensed under Oracle's terms.
 
 © Oracle · Built with love using Oracle APEX
 
